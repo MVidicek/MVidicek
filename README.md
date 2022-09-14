@@ -1,7 +1,5 @@
 [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
 
-<img alt="Code Time" src="https://img.shields.io/badge/mvidicek@protonmail.com-@-blue" />
-
 ```yaml
 name: Marko Vidiček
 located_in: Karlovac, Croatia
@@ -18,8 +16,10 @@ hobbies: ["Basketball", "Gaming", "Workout"]
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square)
 ![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat-square)
-
 ![Astro Badge](https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=fff&style=flat-square)
 ![AngularJS Badge](https://img.shields.io/badge/AngularJS-E23237?logo=angularjs&logoColor=fff&style=flat-square)
 ![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat-square)
 ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat-square)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MVidicek&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mvidicek&theme=swift&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
