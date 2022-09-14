@@ -21,5 +21,9 @@ hobbies: ["Basketball", "Gaming", "Workout"]
 ![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat-square)
 ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat-square)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MVidicek&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mvidicek&theme=swift&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MVidicek&show_icons=true&theme=swift" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mvidicek&theme=swift&layout=compact" />
+</a>
