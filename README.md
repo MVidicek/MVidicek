@@ -25,7 +25,9 @@ hobbies: ["Basketball", "Gaming", "Workout"]
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=MVidicek&show_icons=true&theme=swift" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mvidicek&theme=swift&layout=compact" />
-  </a>
+  <div align="center" style="margin-top: 1rem">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mvidicek&theme=swift&layout=compact" />
+    </a>
+  </div>
 </p>                                                                                                        
