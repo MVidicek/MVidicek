@@ -6,8 +6,6 @@ located_in: Karlovac, Croatia
 job: Junior Software Engineer
 education: Master's in Informatics
 company: GDi Group
-past experiences: 
-  - ["Intern Frontend Developer", "GDi", "Fully Remote", "2022"]
 
 currently_learning: [".NET Web Development"]
 hobbies: ["Basketball", "Gaming", "Workout"]
