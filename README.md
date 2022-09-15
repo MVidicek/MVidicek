@@ -5,7 +5,6 @@ name: Marko Vidiček
 located_in: Karlovac, Croatia
 job: Junior Software Engineer
 education: Master's in Informatics
-company: GDi Group
 
 currently_learning: [".NET Web Development"]
 hobbies: ["Basketball", "Gaming", "Workout"]
