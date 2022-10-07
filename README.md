@@ -6,7 +6,7 @@ located_in: Karlovac, Croatia
 job: Junior Software Engineer
 education: Master's in Informatics
 
-currently_learning: [".NET Web Development"]
+currently_learning: [".NET, SQL"]
 hobbies: ["Basketball", "Gaming", "Workout"]
 ```
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
