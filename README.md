@@ -12,7 +12,7 @@ education: Master's in Informatics
   <img src="https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat-square">
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat-square">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square">
-   <img src="https://img.shields.io/badge/AngularJS-E23237?logo=angularjs&logoColor=fff&style=flat-square">
+   <img src="https://img.shields.io/badge/Angular-E23237?logo=angular&logoColor=fff&style=flat-square">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square">
   <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat-square">
   <img src="https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=fff&style=flat-square">
