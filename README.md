@@ -1,4 +1,6 @@
-[![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg">
+</p>
 
 ```yaml
 name: Marko Vidiček
