@@ -5,7 +5,7 @@
 ```yaml
 name: Marko Vidiček
 located_in: Karlovac, Croatia
-job: Junior Software Engineer
+job: Software Engineer
 education: Master's in Informatics
 ```
 <p align="center">
